@@ -1,0 +1,28 @@
+name: Presence
+favicon: null
+layout_spectrum: 0.03320267121307552
+typography_spectrum: 0.5442214354407042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5407762771937996
+  lightness: 0.6690688687376678
+  saturation: 0.01906245807185769
+  rhythmicContrast: 0.43755785236135125
+purpose: []
