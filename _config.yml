@@ -2,6 +2,7 @@ name: Presence
 favicon: null
 layout_spectrum: 0.29743
 typography_spectrum: 0.5442214354407042
+title: Presence
 cta:
   domain: null
   bucket: null
